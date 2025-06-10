@@ -39,7 +39,9 @@ Ensure you have a Google account and internet access.
 
 2. **Upload Dataset**  
    - You'll be prompted to upload the dataset (`data.csv`) if required.
+   - student-scores.csv is used 
    - The notebook handles loading, preprocessing, and model training.
+   - You can download the DataSet for the Kaggel or the Link : https://github.com/Vaishnavishatagopam77/Education-Recommendation-System-/blob/main/student-scores.csv .
 
 3. **Run All Cells**  
    - From `Runtime > Run all`, execute the entire notebook.
