@@ -87,6 +87,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## 👨‍💻 Author
 
-Vaish Vaishnavj  
+Vaishnavi Shatagopam
 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
 
